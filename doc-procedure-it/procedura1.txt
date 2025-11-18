@@ -1,0 +1,7 @@
+Procedura IT – Gestione attività quotidiane
+
+1. Verifica stato sistemi e servizi principali.
+2. Controllo ticket aperti nel sistema di Help Desk.
+3. Monitoraggio infrastruttura (Proxmox, Nextcloud, Immich).
+4. Backup e controlli programmati.
+5. Comunicazioni interne al team.
